@@ -15,7 +15,7 @@
 ### Engineering Focus
 
 - **Meteorological AI & IoT Telemetry:** Building **[MetShield-AI](https://aws2026-nu.vercel.app)** (SIH 2026, PS #26073) — WMO-No. 8 3-tier quality control and storm-vs-sensor-fault XAI for MoES / IMD Automatic Weather Stations.
-- **Native Windows Systems:** Engineered **[Black-Firefox](https://github.com/shivamkumarmehta64-sketch/Black-Firefox)** (~86 KB C#/.NET 4.8 WebView2 browser) and **[BlackTube](https://github.com/shivamkumarmehta64-sketch/BlackTube)** (minimal-RAM, ad-free desktop client).
+- **Native Windows Systems:** Engineered **[Black Browser](https://github.com/shivamkumarmehta64-sketch/Black-Firefox)** (privacy-first C#/.NET 4.8 + WebView2 browser, v9.1.0) and **[BlackTube](https://github.com/shivamkumarmehta64-sketch/BlackTube)** (minimal-RAM, ad-free desktop client).
 - **Digital Forensics & Mobile:** Built **aerotech** (Bihar Cybercrime Hackathon 2026, PS-02) for autonomous APK triage, ed25519 evidence sealing, and STIX 2.1 intelligence.
 - **Education:** B.Tech ECE @ Purnea College of Engineering (Govt. of Bihar) · Bihar Engineering University, Patna.
 
@@ -26,7 +26,7 @@
 | Project | Summary & Impact | Stack | Access |
 |---|---|---|---|
 | **[MetShield-AI](https://github.com/shivamkumarmehta64-sketch/MetShield-AI)** | Real-time 3-tier QC & thermodynamic storm discriminator for AWS networks (SIH 2026) | `TypeScript` `Next.js` `Recharts` | [Live Demo](https://aws2026-nu.vercel.app) · [Source](https://github.com/shivamkumarmehta64-sketch/MetShield-AI) |
-| **[Black-Firefox](https://github.com/shivamkumarmehta64-sketch/Black-Firefox)** | Ultra-compact ~86 KB native Windows browser with 3-layer ad block & uBlock MV2 | `C#` `.NET 4.8` `WebView2` | [Download `.exe`](https://github.com/shivamkumarmehta64-sketch/Black-Firefox/releases/latest) · [Source](https://github.com/shivamkumarmehta64-sketch/Black-Firefox) |
+| **[Black Browser](https://github.com/shivamkumarmehta64-sketch/Black-Firefox)** | Privacy-first native Windows 10/11 browser (~460 KB, &lt;60 MB RAM) with 3-Layer AdShield &amp; DPAPI vault | `C#` `.NET 4.8` `WebView2` | [Download v9.1.0](https://github.com/shivamkumarmehta64-sketch/Black-Firefox/releases/latest) · [Source](https://github.com/shivamkumarmehta64-sketch/Black-Firefox) |
 | **[BlackTube](https://github.com/shivamkumarmehta64-sketch/BlackTube)** | Zero-telemetry, distraction-free YouTube desktop client with minimal RAM footprint | `C#` `.NET 4.8` `WebView2` | [Source](https://github.com/shivamkumarmehta64-sketch/BlackTube) |
 | **[aerotech](https://shivamkumarmehta64-sketch.github.io/all-websites-3d/#aerotech)** | Autonomous Android APK triage, ed25519 custody & STIX 2.1 (Bihar Cybercrime PS-02) | `Python` `Streamlit` `ed25519` | [Architecture Case Study](https://shivamkumarmehta64-sketch.github.io/all-websites-3d/#aerotech) *(Private repo)* |
 | **[Portfolio & Distribution Hub](https://shivamkumarmehta64-sketch.github.io/all-websites-3d/)** | Central software showcase & direct GitHub Releases download portal with Three.js hero | `Three.js` `JavaScript` | [Open Hub](https://shivamkumarmehta64-sketch.github.io/all-websites-3d/) |
