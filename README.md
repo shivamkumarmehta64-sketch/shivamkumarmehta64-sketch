@@ -5,17 +5,21 @@
 
 <div align="center">
 
-<!-- ── HERO IDENTITY ─────────────────────────────────────────────── -->
+<!-- ── HERO IDENTITY (LOCAL APPLE SVG · LIGHT & DARK NATIVE) ──────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Shivam%20Kumar%20Mehta&fontSize=42&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=ECE%20Engineer%20%C2%B7%20Systems%20Builder%20%C2%B7%20AI%20%26%20IoT%20Telemetry&descAlignY=58&descSize=16&descColor=A0AEC0" alt="Shivam Kumar Mehta" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero-dark.svg" alt="Shivam Kumar Mehta — ECE Engineer · Native Systems Builder · AI & IoT Telemetry" width="100%" />
+</picture>
 
-<br/>
+<br/><br/>
 
 <!-- ── NAVIGATION & STATUS ───────────────────────────────────────── -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_Hub-6_Live_Systems-000000?style=for-the-badge&logo=safari&logoColor=white)](https://shivamkumarmehta64-sketch.github.io/all-websites-3d/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6_Systems-000000?style=for-the-badge&logo=safari&logoColor=white)](https://shivamkumarmehta64-sketch.github.io/all-websites-3d/)
 &nbsp;
-[![MetShield-AI](https://img.shields.io/badge/MetShield--AI-MoES_·_SIH_2026-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://aws2026-nu.vercel.app)
+[![MetShield-AI](https://img.shields.io/badge/MetShield--AI-SIH_2026-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://aws2026-nu.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-mehta)
 &nbsp;
@@ -174,11 +178,9 @@
 
 ---
 
-<!-- ── FOOTER WAVE ─────────────────────────────────────────────────── -->
+<!-- ── FOOTER ──────────────────────────────────────────────────────── -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" alt="Footer" width="100%" />
 
 <sub>
   Built with precision · Shipped with intent · <a href="https://shivamkumarmehta64-sketch.github.io/all-websites-3d/">Portfolio</a> · <a href="https://aws2026-nu.vercel.app">MetShield-AI Live</a> · <a href="https://shivamkumarmehta64-sketch.github.io/Black-Firefox/">Black Browser</a>

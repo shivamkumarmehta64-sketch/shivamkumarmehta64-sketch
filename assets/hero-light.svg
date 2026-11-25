@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="260" fill="none">
+  <defs>
+    <linearGradient id="bg-grad-l" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="50%" stop-color="#f1f5f9"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <radialGradient id="glow-blue-l" cx="28%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-emerald-l" cx="76%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="20" fill="url(#bg-grad-l)"/>
+  <rect width="1200" height="260" rx="20" fill="url(#glow-blue-l)"/>
+  <rect width="1200" height="260" rx="20" fill="url(#glow-emerald-l)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="258.5" rx="19.25" stroke="#0f172a" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <text x="600" y="106" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.2" fill="#0f172a">
+    Shivam Kumar Mehta
+  </text>
+
+  <text x="600" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="500" letter-spacing="0.4" fill="#475569">
+    ECE Engineer  ·  Native Systems Builder  ·  AI &amp; IoT Telemetry
+  </text>
+
+  <rect x="405" y="178" width="390" height="32" rx="16" fill="#0f172a" fill-opacity="0.04" stroke="#0f172a" stroke-opacity="0.1" stroke-width="1"/>
+  <circle cx="427" cy="194" r="4.5" fill="#10b981"/>
+  <text x="610" y="199" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#334155">
+    Building Project JATAYU (SIH 2026) · MoES / IMD
+  </text>
+</svg>
