@@ -8,9 +8,9 @@
 <!-- ── HERO IDENTITY (LOCAL APPLE SVG · LIGHT & DARK NATIVE) ──────── -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg?v=3" />
-  <img src="./assets/hero-dark.svg?v=3" alt="Shivam Kumar Mehta — ECE Engineer · Native Systems Builder · AI & IoT Telemetry" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-metshield.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-metshield.svg" />
+  <img src="./assets/hero-dark-metshield.svg" alt="Shivam Kumar Mehta — ECE Engineer · Native Systems Builder · AI & IoT Telemetry" width="100%" />
 </picture>
 
 <br/><br/>
