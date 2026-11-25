@@ -8,9 +8,9 @@
 <!-- ── HERO IDENTITY (LOCAL APPLE SVG · LIGHT & DARK NATIVE) ──────── -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-dark.svg" alt="Shivam Kumar Mehta — ECE Engineer · Native Systems Builder · AI & IoT Telemetry" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg?v=3" />
+  <img src="./assets/hero-dark.svg?v=3" alt="Shivam Kumar Mehta — ECE Engineer · Native Systems Builder · AI & IoT Telemetry" width="100%" />
 </picture>
 
 <br/><br/>
@@ -44,7 +44,7 @@
 </div>
 
 > I build systems where **hardware meets intelligence** — from live meteorological sensors on the Ministry of Earth Sciences' AWS network to privacy-first native Windows applications running in under 60 MB of RAM.  
-> Currently shipping **[MetShield-AI (Project JATAYU · SIH26073)](https://aws2026-nu.vercel.app)** — a WMO-No. 8 compliant, 3-tier thermodynamic QC engine for IMD's Automatic Weather Stations across India.
+> Currently shipping **[MetShield-AI (SIH26073)](https://aws2026-nu.vercel.app)** — a WMO-No. 8 compliant, 3-tier thermodynamic QC engine for IMD's Automatic Weather Stations across India.
 
 ```text
   Degree          B.Tech ECE · Purnea College of Engineering (Bihar Engineering University)
@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🛡️ <a href="https://github.com/shivamkumarmehta64-sketch/MetShield-AI">MetShield-AI</a></strong> <sub><code>Project JATAYU · SIH 2026</code></sub><br/>
+      <strong>🛡️ <a href="https://github.com/shivamkumarmehta64-sketch/MetShield-AI">MetShield-AI</a></strong> <sub><code>SIH 2026 · MoES/IMD</code></sub><br/>
       <sub>Real-time 3-tier WMO-No. 8 QC &amp; thermodynamic storm-vs-fault XAI for 20-node AWS networks. <strong>212/212 Vitest tests passing.</strong></sub><br/><br/>
       <code>TypeScript</code> <code>Next.js</code> <code>Recharts</code> <code>Vitest</code><br/>
       <a href="https://aws2026-nu.vercel.app">▶ Live Portal</a> · <a href="https://github.com/shivamkumarmehta64-sketch/MetShield-AI">Source</a>
