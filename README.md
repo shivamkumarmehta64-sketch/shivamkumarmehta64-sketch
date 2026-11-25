@@ -65,14 +65,14 @@
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;&nbsp;System&nbsp;&nbsp;&nbsp;&nbsp; | What It Does | Stack | Ship |
-|:---:|:---|:---:|:---:|
-| **[🛡️ MetShield-AI](https://github.com/shivamkumarmehta64-sketch/MetShield-AI)** | Real-time 3-tier QC + thermodynamic storm-vs-fault XAI for 20-node MoES AWS network. 212 tests green. | `TS` `Next.js` `Recharts` `Vitest` | [▶ Demo](https://aws2026-nu.vercel.app) |
-| **[🖥️ Black Browser](https://github.com/shivamkumarmehta64-sketch/Black-Firefox)** | Privacy-first native Windows browser — 460 KB installer, <60 MB RAM, 3-Layer AdShield, DPAPI vault. | `C#` `.NET 4.8` `WebView2` | [⬇ v9.1.0](https://github.com/shivamkumarmehta64-sketch/Black-Firefox/releases/latest) |
-| **[📺 BlackTube](https://github.com/shivamkumarmehta64-sketch/BlackTube)** | Zero-telemetry, ad-free YouTube desktop client. Minimal RAM, SponsorBlock integration. | `C#` `.NET 4.8` `WebView2` | [Source](https://github.com/shivamkumarmehta64-sketch/BlackTube) |
-| **[🌐 Blue Browser](https://github.com/shivamkumarmehta64-sketch/Blue-Browser-Tauri)** | Cross-platform sibling — TypeScript + Rust (Tauri). macOS · Windows · Linux. | `TS` `React` `Rust` `Tauri` | [Source](https://github.com/shivamkumarmehta64-sketch/Blue-Browser-Tauri) |
-| **[🛸 Quantum Drone GCS](https://github.com/shivamkumarmehta64-sketch/quantum-drone-sih)** | Quantum-resilient drone surveillance GCS — Kyber-1024 comms, real-time telemetry, air-gapped mesh ops. | `Python` `C++` `HTML` | [Live GCS](https://quantum-drone-gcs.pages.dev) |
-| **[🔬 aerotech](https://shivamkumarmehta64-sketch.github.io/all-websites-3d/)** | Autonomous Android APK triage, ed25519 custody sealing, STIX 2.1 intelligence (Bihar Cybercrime PS-02). | `Python` `Streamlit` `ed25519` | *(Private)* |
+|                   &nbsp;&nbsp;&nbsp;&nbsp;System&nbsp;&nbsp;&nbsp;&nbsp;                   | What It Does                                                                                            |               Stack                |                                          Ship                                          |
+| :----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------ | :--------------------------------: | :------------------------------------------------------------------------------------: |
+|      **[🛡️ MetShield-AI](https://github.com/shivamkumarmehta64-sketch/MetShield-AI)**      | Real-time 3-tier QC + thermodynamic storm-vs-fault XAI for 20-node MoES AWS network. 212 tests green.   | `TS` `Next.js` `Recharts` `Vitest` |                        [▶ Demo](https://aws2026-nu.vercel.app)                         |
+|     **[🖥️ Black Browser](https://github.com/shivamkumarmehta64-sketch/Black-Firefox)**     | Privacy-first native Windows browser — 460 KB installer, <60 MB RAM, 3-Layer AdShield, DPAPI vault.     |     `C#` `.NET 4.8` `WebView2`     | [⬇ v9.1.0](https://github.com/shivamkumarmehta64-sketch/Black-Firefox/releases/latest) |
+|         **[📺 BlackTube](https://github.com/shivamkumarmehta64-sketch/BlackTube)**         | Zero-telemetry, ad-free YouTube desktop client. Minimal RAM, SponsorBlock integration.                  |     `C#` `.NET 4.8` `WebView2`     |            [Source](https://github.com/shivamkumarmehta64-sketch/BlackTube)            |
+|   **[🌐 Blue Browser](https://github.com/shivamkumarmehta64-sketch/Blue-Browser-Tauri)**   | Cross-platform sibling — TypeScript + Rust (Tauri). macOS · Windows · Linux.                            |    `TS` `React` `Rust` `Tauri`     |       [Source](https://github.com/shivamkumarmehta64-sketch/Blue-Browser-Tauri)        |
+| **[🛸 Quantum Drone GCS](https://github.com/shivamkumarmehta64-sketch/quantum-drone-sih)** | Quantum-resilient drone surveillance GCS — Kyber-1024 comms, real-time telemetry, air-gapped mesh ops.  |       `Python` `C++` `HTML`        |                    [Live GCS](https://quantum-drone-gcs.pages.dev)                     |
+|      **[🔬 aerotech](https://shivamkumarmehta64-sketch.github.io/all-websites-3d/)**       | Autonomous Android APK triage, ed25519 custody sealing, STIX 2.1 intelligence (Bihar Cybercrime PS-02). |   `Python` `Streamlit` `ed25519`   |                                      _(Private)_                                       |
 
 </div>
 
@@ -143,7 +143,7 @@
 <br/><br/>
 
 <a href="https://github.com/shivamkumarmehta64-sketch">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumarmehta64-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&exclude_repo=ytube,mtube,Black" width="47%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumarmehta64-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&exclude_repo=ytube,mtube,Black" width="52%" alt="Top Languages" />
 </a>
 
 </div>
@@ -164,18 +164,6 @@
 
 ---
 
-<!-- ── ACTIVITY GRAPH ──────────────────────────────────────────────── -->
-
-<div align="center">
-
-<a href="https://github.com/shivamkumarmehta64-sketch">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkumarmehta64-sketch&bg_color=0d1117&color=58a6ff&line=10b981&point=ffffff&area=true&hide_border=true&area_color=10b98120" width="100%" alt="Activity Graph" />
-</a>
-
-</div>
-
----
-
 <!-- ── FOOTER WAVE ─────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -191,7 +179,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shivamkumarmehta64-sketch&color=10b981&style=flat-square&label=Profile+Visitors)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/shivamkumarmehta64-sketch?style=flat-square&color=58a6ff&label=Followers)
-&nbsp;
-![Stars](https://img.shields.io/badge/Total_Stars-★_3-FFD700?style=flat-square)
 
 </div>
