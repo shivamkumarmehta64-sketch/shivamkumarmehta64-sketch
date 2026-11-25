@@ -145,10 +145,6 @@
 <a href="https://github.com/shivamkumarmehta64-sketch">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumarmehta64-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&exclude_repo=ytube,mtube,Black" width="47%" alt="Top Languages" />
 </a>
-&nbsp;
-<a href="https://github.com/shivamkumarmehta64-sketch">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamkumarmehta64-sketch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" width="47%" alt="Trophies" />
-</a>
 
 </div>
 
