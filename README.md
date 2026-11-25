@@ -46,11 +46,26 @@
 > I build systems where **hardware meets intelligence** — from live meteorological sensors on the Ministry of Earth Sciences' AWS network to privacy-first native Windows applications running in under 60 MB of RAM.  
 > Currently shipping **[MetShield-AI (SIH26073)](https://aws2026-nu.vercel.app)** — a WMO-No. 8 compliant, 3-tier thermodynamic QC engine for IMD's Automatic Weather Stations across India.
 
-```text
-  Degree          B.Tech ECE · Purnea College of Engineering (Bihar Engineering University)
-  Core Craft      Embedded Systems · Native Windows (C# / .NET / Rust) · IoT Telemetry
-  2026 Focus      Thermodynamic Sensor QC · Post-Quantum GCS · Android Digital Forensics
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <strong>🎓 Education</strong><br/>
+      <sub>B.Tech ECE · Purnea College of Engineering<br/>Bihar Engineering University</sub>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <strong>⚡ Core Craft</strong><br/>
+      <sub>Embedded Systems · IoT Telemetry<br/>Native Windows (C# / .NET / Rust)</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <strong>🎯 2026 Focus</strong><br/>
+      <sub>Thermodynamic Sensor QC · Post-Quantum GCS<br/>Android Digital Forensics</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
