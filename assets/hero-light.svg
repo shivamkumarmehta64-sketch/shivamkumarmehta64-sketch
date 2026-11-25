@@ -28,9 +28,9 @@
     ECE Engineer  ·  Native Systems Builder  ·  AI &amp; IoT Telemetry
   </text>
 
-  <rect x="405" y="178" width="390" height="32" rx="16" fill="#0f172a" fill-opacity="0.04" stroke="#0f172a" stroke-opacity="0.1" stroke-width="1"/>
-  <circle cx="427" cy="194" r="4.5" fill="#10b981"/>
+  <rect x="375" y="178" width="450" height="32" rx="16" fill="#0f172a" fill-opacity="0.04" stroke="#0f172a" stroke-opacity="0.1" stroke-width="1"/>
+  <circle cx="397" cy="194" r="4.5" fill="#10b981"/>
   <text x="610" y="199" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#334155">
-    Building Project JATAYU (SIH 2026) · MoES / IMD
+    MetShield-AI (Project JATAYU · SIH 2026) · MoES / IMD
   </text>
 </svg>
