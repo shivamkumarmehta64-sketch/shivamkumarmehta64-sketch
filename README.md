@@ -79,14 +79,14 @@
   <tr>
     <td width="50%" valign="top">
       <strong>🛡️ <a href="https://github.com/shivamkumarmehta64-sketch/MetShield-AI">MetShield-AI</a></strong> <sub><code>SIH 2026 · MoES/IMD</code></sub><br/>
-      <sub>Real-time 3-tier WMO-No. 8 QC &amp; thermodynamic storm-vs-fault XAI for 20-node AWS networks. <strong>212/212 Vitest tests passing.</strong></sub><br/><br/>
+      <sub>Real-time 3-tier WMO-No. 8 QC, thermodynamic XAI, bounded rate-limits &amp; streaming body guards for 20-node AWS networks. <strong>223/223 Vitest tests passing.</strong></sub><br/><br/>
       <code>TypeScript</code> <code>Next.js</code> <code>Recharts</code> <code>Vitest</code><br/>
       <a href="https://aws2026-nu.vercel.app">▶ Live Portal</a> · <a href="https://github.com/shivamkumarmehta64-sketch/MetShield-AI">Source</a>
     </td>
     <td width="50%" valign="top">
       <strong>🖥️ <a href="https://github.com/shivamkumarmehta64-sketch/Black-Firefox">Black Browser</a></strong> <sub><code>v9.1.0 · Windows</code></sub><br/>
-      <sub>Privacy-first native Windows browser — <strong>~460 KB installer</strong>, <strong>&lt;60 MB RAM</strong>, 3-Layer AdShield &amp; DPAPI vault.</sub><br/><br/>
-      <code>C#</code> <code>.NET 4.8</code> <code>WebView2</code><br/>
+      <sub>Privacy-first native Windows browser — <strong>~460 KB</strong>, <strong>&lt;60 MB RAM</strong>, 3-Layer AdShield, DPAPI vault, Authenticode &amp; fail-closed SHA-256 updater (<strong>22/22 security tests</strong>).</sub><br/><br/>
+      <code>C#</code> <code>.NET 4.8</code> <code>WebView2</code> <code>SHA-Pinned CI</code><br/>
       <a href="https://shivamkumarmehta64-sketch.github.io/Black-Firefox/">▶ Product Site</a> · <a href="https://github.com/shivamkumarmehta64-sketch/Black-Firefox/releases/latest">⬇ Download</a>
     </td>
   </tr>
@@ -135,7 +135,8 @@
 | **Systems &amp; Native** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_4.8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WebView2](https://img.shields.io/badge/WebView2-0078D4?style=flat-square&logo=microsoft-edge&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) |
 | **Mobile &amp; Embedded** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![RPi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) |
 | **AI &amp; Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **Security &amp; QC** | ![ed25519](https://img.shields.io/badge/ed25519-Custody_Signing-10B981?style=flat-square) ![STIX](https://img.shields.io/badge/STIX_2.1-Threat_Intel-EF4444?style=flat-square) ![WMO](https://img.shields.io/badge/WMO--No.8-Meteorological_QC-0EA5E9?style=flat-square) |
+| **Security &amp; QC** | ![ed25519](https://img.shields.io/badge/ed25519-Custody_Signing-10B981?style=flat-square) ![STIX](https://img.shields.io/badge/STIX_2.1-Threat_Intel-EF4444?style=flat-square) ![WMO](https://img.shields.io/badge/WMO--No.8-Meteorological_QC-0EA5E9?style=flat-square) ![Authenticode](https://img.shields.io/badge/WinVerifyTrust-Authenticode-6366F1?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP-API_Hardened-F59E0B?style=flat-square) |
+| **CI/CD &amp; Testing** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-SHA--Pinned-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-223%2F223_Passing-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-E2E_QA-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![DPAPI](https://img.shields.io/badge/Windows_DPAPI-Encrypted_Vault-0078D4?style=flat-square) |
 
 </div>
 
