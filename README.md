@@ -84,16 +84,16 @@
       <a href="https://aws2026-nu.vercel.app">▶ Live Portal</a> · <a href="https://github.com/shivamkumarmehta64-sketch/MetShield-AI">Source</a>
     </td>
     <td width="50%" valign="top">
-      <strong>🖥️ <a href="https://github.com/shivamkumarmehta64-sketch/Black-Firefox">Black Browser</a></strong> <sub><code>v9.1.0 · Windows</code></sub><br/>
+      <strong>🖥️ <a href="https://github.com/shivamkumarmehta64-sketch/BlackBrowser">Black Browser</a></strong> <sub><code>v9.1.0 · Windows</code></sub><br/>
       <sub>Privacy-first native Windows browser — <strong>~460 KB</strong>, <strong>&lt;60 MB RAM</strong>, 3-Layer AdShield, DPAPI vault, Authenticode &amp; fail-closed SHA-256 updater (<strong>22/22 security tests</strong>).</sub><br/><br/>
       <code>C#</code> <code>.NET 4.8</code> <code>WebView2</code> <code>SHA-Pinned CI</code><br/>
-      <a href="https://shivamkumarmehta64-sketch.github.io/Black-Firefox/">▶ Product Site</a> · <a href="https://github.com/shivamkumarmehta64-sketch/Black-Firefox/releases/latest">⬇ Download</a>
+      <a href="https://shivamkumarmehta64-sketch.github.io/BlackBrowser/">▶ Product Site</a> · <a href="https://github.com/shivamkumarmehta64-sketch/BlackBrowser/releases/latest">⬇ Download</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>🛸 <a href="https://github.com/shivamkumarmehta64-sketch/quantum-drone-sih">Quantum Drone GCS</a></strong> <sub><code>Defense · Mesh</code></sub><br/>
-      <sub>Quantum-resilient drone surveillance ground control station with <strong>Kyber-1024</strong> comms &amp; air-gapped mesh telemetry.</sub><br/><br/>
+      <sub>Quantum-resilient drone surveillance ground control station with <strong>ML-KEM-768</strong> comms &amp; air-gapped mesh telemetry.</sub><br/><br/>
       <code>Python</code> <code>C++</code> <code>HTML</code><br/>
       <a href="https://quantum-drone-gcs.pages.dev">▶ Live GCS</a> · <a href="https://github.com/shivamkumarmehta64-sketch/quantum-drone-sih">Source</a>
     </td>
@@ -199,7 +199,7 @@
 <div align="center">
 
 <sub>
-  Built with precision · Shipped with intent · <a href="https://shivamkumarmehta64-sketch.github.io/all-websites-3d/">Portfolio</a> · <a href="https://aws2026-nu.vercel.app">MetShield-AI Live</a> · <a href="https://shivamkumarmehta64-sketch.github.io/Black-Firefox/">Black Browser</a>
+  Built with precision · Shipped with intent · <a href="https://shivamkumarmehta64-sketch.github.io/all-websites-3d/">Portfolio</a> · <a href="https://aws2026-nu.vercel.app">MetShield-AI Live</a> · <a href="https://shivamkumarmehta64-sketch.github.io/BlackBrowser/">Black Browser</a>
 </sub>
 
 <br/><br/>
